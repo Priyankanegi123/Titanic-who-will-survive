@@ -1,3 +1,4 @@
+#Titanic- Who will survive
 **ABSTRACT:**
 This project is based on the survival prediction of the people on the RMS Titanic. One of the reasons for the loss of lives on that ship was the shortage of lifeboats for the passengers and crew. Although, some people were more likely to survive than others. In this ML model we will predict which passengers survived the tragedy.
 
