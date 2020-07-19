@@ -36,4 +36,4 @@ Here are some insights we had after analysing the data:
 • The fare didn’t contribute much to the model.
 
 **ALGORITHMS USED:**
-The following problem is a classification problem so we used random classifier model as it works best for the model with an accuracy of 96.9
+The following problem is a classification problem so we used random classifier model as it works best for the model with an accuracy of 96.52
