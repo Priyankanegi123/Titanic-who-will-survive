@@ -4,14 +4,23 @@ This project is based on the survival prediction of the passengers on the RMS Ti
 
 **DATASET:**
 The dataset contains the passengers name, age, gender, socio-economic class etc. The dataset has been divided into training and testing dataset. The training set has 891 examples and 11 features + the target variable(survived). Two of the features are float, five are integers and five are objects. Below is a list of the features:
+
 •	PassengerId: unique id of a passenger
+
 •	Pclass: Passenger ticket class.
+
 •	Sex:  sex
+
 •	Age: age in years 
+
 •	Sibsp: number of siblings or spouses who aboard the titanic
+
 •	Parch: number of parents or children who aboard the titanic
+
 •	Ticket: ticket number
+
 •	Fare: passenger fare
+
 •	Cabin: cabin number
 •	Embarked: port of embarkation
 
