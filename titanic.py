@@ -3,8 +3,8 @@ import pandas as pd
 import seaborn as sns
 from matplotlib import pyplot as plt
 from matplotlib import style
-test_df = pd.read_csv(r'C:\Users\New\Downloads\titanic_test.csv')
-train_df = pd.read_csv(r'C:\Users\New\Downloads\titanic_train.csv')
+test_df = pd.read_csv('titanic_test.csv')
+train_df = pd.read_csv('titanic_train.csv')
 train_df.isnull().sum()
 print("Train Shape:",train_df.shape)
 test_df.isnull().sum()
