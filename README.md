@@ -22,13 +22,17 @@ The dataset contains the passengers name, age, gender, socio-economic class etc.
 •	Fare: passenger fare
 
 •	Cabin: cabin number
+
 •	Embarked: port of embarkation
 
 **DATA ANALYSIS:**
 Feature conversion of data types from float to int64 and spotting of features containing missing values and replacing them with values. Analaysing on which feature the survival depends. 
 Here are some insights we had after analysing the data: 
+
 • Pclass, sex, cabin and embarked are categorical features. 
+
 • Comparison of genders is important, as females are more likely to survive.
+
 • The fare didn’t contribute much to the model.
 
 **ALGORITHMS USED:**
